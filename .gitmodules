@@ -1,0 +1,3 @@
+[submodule "addon-bitwarden"]
+	path = addon-bitwarden
+	url = https://github.com/justinladwig/addon-bitwarden
