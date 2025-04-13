@@ -1,3 +1,6 @@
 [submodule "addon-bitwarden"]
 	path = addon-bitwarden
 	url = https://github.com/justinladwig/addon-bitwarden
+[submodule "addon-paperless-ai"]
+	path = addon-paperless-ai
+	url = https://github.com/justinladwig/addon-paperless-ai
